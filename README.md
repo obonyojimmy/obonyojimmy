@@ -1,22 +1,3 @@
-### <div align="center">I'm Jimmy, a full-stack engineer 👨‍💻 since 2013 🚀</div>
-
-
-- 👫 I'm looking to collaborate on full-stack projects and contribute to open-source.
-
-
-- ❓ Ask me about anything related to front-end , back-end and devops
-
-
-- ⚡ Fun fact: which came first the chicken or the egg
-
-
-<br/>
-
-
-## My Skill Set
-<table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend
 <div align="center">
